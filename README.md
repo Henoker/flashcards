@@ -39,7 +39,7 @@ Distributed under the [MIT](https://github.com/Henoker/react-flashcard-app/blob/
 
 ## Contact
 - Henock Beyene Tesfatsion - [hennybany@gmail.com](mailto:hennybany@gmail.com)
-- Project link: https://github.com/Henoker/react-flashcard-app
+- Project demo: https://henoker.github.io/react-flashcard-app/
 ## Love my effort?
 
 <a href='https://www.linkedin.com/in/henock-beyene-tesfatsion-921ba54b/' target='_blank'><img height='35' style='border:0px;height:34px;' src='public/download.jpg' border='0' alt='Hire me at LinkediN' />
